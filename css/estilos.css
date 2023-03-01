@@ -1,0 +1,13 @@
+a {
+    display:block;
+}
+
+.bold {
+    font-weight:bold;
+}
+
+#fechayhora {
+    margin:0px;
+    background:grey;
+}
+
